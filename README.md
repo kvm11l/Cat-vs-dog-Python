@@ -27,12 +27,9 @@ Na końcu zwracana jest liczba od 0 do 1:
 
 
 ## Wymagania
-Python 3.10+ (zalecany 3.11/3.12)
-Biblioteki:
-* tensorflow
-* numpy
-* matplotlib
-* pillow
+Python 3.10+ \
+Instalacja wymaganych bibliotek: \
+`pip install tensorflow matplotlib numpy pillow`
 
 ## Zbiór danych
 Aby pobrać ten sam zbiór danych co w projekcie należy skorzystać z bezpośredniego adresu URL w Pythonie (program pobiera go automatycznie z serwera Google Storage TensorFlow, a nie ręcznie z przeglądarki).
